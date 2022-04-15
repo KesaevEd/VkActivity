@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/free_icon_house_861452"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/free_icon_four_rounded_squares_button_54784"
+        android:title="Сервисы" />
+
+    <item
+        android:id="@+id/navigation_messenger"
+        android:icon="@drawable/free_icon_speech_bubble_2462719"
+        android:title="Мессенджер" />
+
+    <item
+        android:id="@+id/navigation_clips"
+        android:icon="@drawable/free_icon_video_editing_app_3800066"
+        android:title="Клипы" />
+
+    <item
+        android:id="@+id/navigation_videos"
+        android:icon="@drawable/free_icon_video_files_656444"
+        android:title="Видео" />
+
+</menu>

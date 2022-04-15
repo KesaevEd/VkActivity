@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/free_icon_qr_1287507"
+        android:title=""
+        android:iconTint="@color/blue"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/free_icon_increase_1443008"
+        android:title=""
+        app:showAsAction="ifRoom"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:iconTint="@color/blue"
+        android:orderInCategory="1"/>
+</menu>
